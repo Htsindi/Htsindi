@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Htsindi
 - 👀 I’m interested in all aspects of web design
-- 🌱 I’m currently learning java script 
+- 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on web design
 - 📫 You can get hold of me on my email - matefortechnology@gmail.com
 
